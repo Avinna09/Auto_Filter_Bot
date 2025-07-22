@@ -369,10 +369,10 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
-    SOURCE_TXT ="""<b>ՏOᑌᖇᑕᗴ ᑕOᗪᗴ : 👇 </b>
+    SOURCE_TXT ="""<b>𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑: 👇 </b>
 
-This Is An Open-Source Project. You Can Use It Freely, But Selling The Source Code Is Strictly Prohibited.\n
-ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/aviram_mahalik/Auto_Filter_Bot.git>𝓓𝓻𝓮𝓪𝓶𝔁𝓑𝓸𝓽𝔃</a>\n """
+This Is An Open-Source Project. You Can Use It Freely, But Selling The Source Code Is Strictly Prohibited Bot Owner.\n
+ 𝕀𝕋'𝕊 🅼🅴🔔:<a href=https://t.me/aviram_mahalik/Auto_Filter_Bot.git>𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥 ⚡</a>\n """
 
     SETTING_TXT = """    
 <u>ꜱᴇᴛᴛɪɴɢꜱ</u> :
