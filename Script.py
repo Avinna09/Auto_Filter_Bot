@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """<b><u>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</u></b>
+    START_TXT = """<b><u>🚩 𝗝𝗔𝗬 𝗝𝗔𝗚𝗔𝗡𝗡𝗔𝗧𝗛 ⭕‼️⭕</u></b>
 
 <b>ʜᴇʏ {}, {}</b>
 
@@ -7,7 +7,7 @@ class script(object):
 """
 
 
-    GSTART_TXT = """<b>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</b>
+    GSTART_TXT = """<b>🚩 𝗝𝗔𝗬 𝗝𝗔𝗚𝗔𝗡𝗡𝗔𝗧𝗛 ⭕‼️⭕</b>
 
 <b>ʜᴇʏ {},</b>
 
@@ -36,11 +36,11 @@ class script(object):
 
     ABOUT_TXT = """<b>╭────[ ᴍʏ ᴅᴇᴛᴀɪʟs ]────⍟
 ├⍟ Mʏ Nᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
-├⍟ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href={}>ᴏᴡɴᴇʀ</a> 
-├⍟ Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
-├⍟ Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 𝟹</a> 
-├⍟ Dᴀᴛᴀʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
-├⍟ Bᴏᴛ Sᴇʀᴠᴇʀ : <a href='https://heroku.com/'>ʜᴇʀᴏᴋᴜ</a> 
+├⍟ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href={}>𝐀𝐯𝐢𝐫𝐚𝐦</a> 
+├⍟ sᴛᴀᴛᴇ    : <a href='https://t.me/AM_Movieflix/'>𝐎𝐃𝐈𝐒𝐇𝐀</a>
+├⍟ Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>𝐎𝐃𝐈𝐀 𝐄𝐧𝐠𝐥𝐢𝐬𝐡 𝐇𝐢𝐧𝐝𝐢</a> 
+├⍟ 𝐃.ᴏ.ʙ: <a href='https://www.mongodb.com/'>𝟼 ғᴇʙʀᴜᴀʀʏ</a> 
+├⍟ Bᴏᴛ Sᴇʀᴠᴇʀ : <a href='https://heroku.com/'>ᴏᴅɪsʜᴀ (ɪɴᴅɪᴀ)</a> 
 ├⍟ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ1.4 [ ꜱᴛᴀʙʟᴇ ]
 ╰───────────────⍟</b>"""
     RESTART_TXT = """
